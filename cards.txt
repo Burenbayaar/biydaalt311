@@ -1,0 +1,8 @@
+Q: Монгол улсын нийслэл хот аль вэ?
+A: Улаанбаатар
+---
+Q: Java дахь interface гэж юу вэ?
+A: Класс хэрэгжүүлэх ёстой методуудын гэрээ
+---
+Q: OOP-ийн 4 зарчим?
+A: Encapsulation, Inheritance, Polymorphism, Abstraction
